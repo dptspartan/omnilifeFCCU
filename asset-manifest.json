@@ -1,16 +1,15 @@
 {
   "files": {
-    "main.css": "/omnilifeFCCU/static/css/main.f855e6bc.css",
-    "main.js": "/omnilifeFCCU/static/js/main.638073ff.js",
+    "main.css": "/omnilifeFCCU/static/css/main.32c4dfbc.css",
+    "main.js": "/omnilifeFCCU/static/js/main.b63e6b45.js",
     "static/js/592.f6d13942.chunk.js": "/omnilifeFCCU/static/js/592.f6d13942.chunk.js",
-    "static/media/logo.svg": "/omnilifeFCCU/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/omnilifeFCCU/index.html",
-    "main.f855e6bc.css.map": "/omnilifeFCCU/static/css/main.f855e6bc.css.map",
-    "main.638073ff.js.map": "/omnilifeFCCU/static/js/main.638073ff.js.map",
+    "main.32c4dfbc.css.map": "/omnilifeFCCU/static/css/main.32c4dfbc.css.map",
+    "main.b63e6b45.js.map": "/omnilifeFCCU/static/js/main.b63e6b45.js.map",
     "592.f6d13942.chunk.js.map": "/omnilifeFCCU/static/js/592.f6d13942.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.638073ff.js"
+    "static/css/main.32c4dfbc.css",
+    "static/js/main.b63e6b45.js"
   ]
 }
