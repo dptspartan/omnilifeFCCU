@@ -1,15 +1,20 @@
 {
   "files": {
-    "main.css": "/omnilifeFCCU/static/css/main.32c4dfbc.css",
-    "main.js": "/omnilifeFCCU/static/js/main.b63e6b45.js",
+    "main.css": "/omnilifeFCCU/static/css/main.a543345a.css",
+    "main.js": "/omnilifeFCCU/static/js/main.13a4923f.js",
     "static/js/592.f6d13942.chunk.js": "/omnilifeFCCU/static/js/592.f6d13942.chunk.js",
+    "static/media/virtual-reality-4995294.jpg": "/omnilifeFCCU/static/media/virtual-reality-4995294.cd20a1f153eb86970a6e.jpg",
+    "static/media/Datacamp_image.jpg": "/omnilifeFCCU/static/media/Datacamp_image.01b7104beae62d32c495.jpg",
+    "static/media/logo-nobg.png": "/omnilifeFCCU/static/media/logo-nobg.b12eed5338ba44bce1f4.png",
+    "static/media/logo.jpg": "/omnilifeFCCU/static/media/logo.5d0e7e2d6c805cd6e639.jpg",
+    "static/media/datacamp_logo.png": "/omnilifeFCCU/static/media/datacamp_logo.864af943f431a92e7865.png",
     "index.html": "/omnilifeFCCU/index.html",
-    "main.32c4dfbc.css.map": "/omnilifeFCCU/static/css/main.32c4dfbc.css.map",
-    "main.b63e6b45.js.map": "/omnilifeFCCU/static/js/main.b63e6b45.js.map",
+    "main.a543345a.css.map": "/omnilifeFCCU/static/css/main.a543345a.css.map",
+    "main.13a4923f.js.map": "/omnilifeFCCU/static/js/main.13a4923f.js.map",
     "592.f6d13942.chunk.js.map": "/omnilifeFCCU/static/js/592.f6d13942.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.32c4dfbc.css",
-    "static/js/main.b63e6b45.js"
+    "static/css/main.a543345a.css",
+    "static/js/main.13a4923f.js"
   ]
 }
